@@ -1,6 +1,6 @@
 ### Hi there 👋, Udith Ssandaruwan
 #### Let's ready for the future
-![Let's ready for the future](https://github.com/UdithSandaruwan/UdithSandaruwan/blob/main/1.png?raw=true)
+![Let's ready for the future](https://github.com/UdithSandaruwan/UdithSandaruwan/blob/main/Udith%20Sandaruwan.png)
 
 I am a software engineering student at the National Institute of Business Management. 
 
